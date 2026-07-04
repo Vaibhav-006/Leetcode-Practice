@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0523-continuous-subarray-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0260-single-number-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
