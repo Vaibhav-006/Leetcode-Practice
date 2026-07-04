@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0523-continuous-subarray-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
