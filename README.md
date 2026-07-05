@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
 ## String
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0260-single-number-iii) |
+| [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
