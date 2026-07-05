@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0386-lexicographical-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
