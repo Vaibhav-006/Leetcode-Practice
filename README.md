@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
