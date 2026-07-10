@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0383-ransom-note) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0024-swap-nodes-in-pairs) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
