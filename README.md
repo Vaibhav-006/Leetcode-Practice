@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0137-single-number-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -211,5 +213,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
