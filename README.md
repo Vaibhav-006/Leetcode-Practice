@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0136-single-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0414-third-maximum-number) |
