@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0263-ugly-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0383-ransom-note](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0258-add-digits) |
