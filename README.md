@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0229-majority-element-ii) |
@@ -239,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
