@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 ## Linked List
 |  |
 | ------- |
