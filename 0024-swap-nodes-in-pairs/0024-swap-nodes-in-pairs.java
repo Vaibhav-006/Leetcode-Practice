@@ -13,19 +13,17 @@ class Solution {
         if(head==null || head.next==null){
             return head;
         }
-        ListNode a=head;
-        ListNode b= head.next;
-        while(b.next!=null && b.next.next!=null){
-            int num=a.val;
-            a.val=b.val;
-            b.val=num;
-            a=a.next.next;
-            b=b.next.next;
+        ListNode dummy= new ListNode(0);
+        ListNode prev=dummy;
+        prev.next=head;
+        while(prev.next!=null && prev.next.next!=null){
+            ListNode first=prev.next;
+            ListNode second= first.next;
+            first.next=second.next;
+            second.next=first;
+            prev.next=second;
+            prev=first;
         }
-        int num=a.val;
-        a.val=b.val;
-        b.val=num;
-        return head;
-        
+        return dummy.next;
     }
 }
