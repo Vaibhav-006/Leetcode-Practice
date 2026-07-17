@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
