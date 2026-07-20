@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -302,10 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
