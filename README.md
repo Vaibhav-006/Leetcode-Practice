@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
 ## Backtracking
 |  |
