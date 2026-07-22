@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2485-find-the-pivot-integer) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1124-longest-well-performing-interval](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1124-longest-well-performing-interval) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
