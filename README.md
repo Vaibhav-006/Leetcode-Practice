@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1089-duplicate-zeros) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
