@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1089-duplicate-zeros](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1089-duplicate-zeros) |
 | [1124-longest-well-performing-interval](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1124-longest-well-performing-interval) |
 | [1207-unique-number-of-occurrences](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Divide and Conquer
 |  |
 | ------- |
