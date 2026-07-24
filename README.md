@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0386-lexicographical-numbers) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -359,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
