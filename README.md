@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0507-perfect-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -351,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
