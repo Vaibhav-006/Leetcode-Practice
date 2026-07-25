@@ -3,26 +3,20 @@ class Solution {
         if(image[sr][sc]==color){
             return image;
         }
-        int ic= image[sr][sc];
-        image[sr][sc]=color;
-        Queue<Integer> q= new LinkedList<>();
-        int[] dRow= {-1, 1, 0, 0};
-        int[] dCol= {0, 0, -1, 1};
-        q.add(sr);
-        q.add(sc);
-        while(!q.isEmpty()){
-            int row= q.poll();
-            int col= q.poll();
-            for(int i=0; i<4; i++){
-                int nRow= row+dRow[i];
-                int nCol= col+dCol[i];
-                if(nRow>=0 && nRow<image.length && nCol>=0 && nCol<image[0].length && image[nRow][nCol]==ic){
-                    q.add(nRow);
-                    q.add(nCol);
-                    image[nRow][nCol]=color;
-                }
-            }
-        }
+        int ic=image[sr][sc];
+        helper(image, sr, sc, color, ic);
         return image;
+    }
+    public void helper(int[][] image, int row, int col, int color, int ic){
+        if(row>=0 && row<image.length && col>=0 && col<image[0].length && image[row][col]==ic){
+            image[row][col]=color;
+        }
+        else{
+            return;
+        }
+        helper(image, row-1, col, color, ic);
+        helper(image, row+1, col, color, ic);
+        helper(image, row, col-1, color, ic);
+        helper(image, row, col+1, color, ic);
     }
 }
