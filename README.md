@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0055-jump-game) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0242-valid-anagram) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0047-permutations-ii) |
 ## Breadth-First Search
@@ -412,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1122-relative-sort-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
