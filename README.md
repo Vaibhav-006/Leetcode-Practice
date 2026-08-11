@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1124-longest-well-performing-interval) |
 | [1207-unique-number-of-occurrences](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
