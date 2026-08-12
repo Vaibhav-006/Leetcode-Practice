@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 ## Union-Find
@@ -406,11 +408,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -425,4 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
