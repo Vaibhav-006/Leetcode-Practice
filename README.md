@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2485-find-the-pivot-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -461,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
