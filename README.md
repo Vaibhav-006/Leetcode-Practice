@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1927-sum-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2485-find-the-pivot-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
+| [1927-sum-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1927-sum-game) |
 ## String
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1927-sum-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1927-sum-game) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -486,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0207-course-schedule) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
