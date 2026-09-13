@@ -1,47 +1,35 @@
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Set<String> set= new HashSet<>(wordList);
-        if(!set.contains(endWord)){
-            return 0;
-        }
-        
-        Queue<String> q=new LinkedList<>();
-        q.offer(beginWord);
-        
+       Set<String> set= new HashSet<>(wordList);
+        if(!set.contains(endWord)) return 0;
+        Queue<String> q= new LinkedList<>();
+        q.add(beginWord);
         int level=1;
-        int len=beginWord.length();
-        
         while(!q.isEmpty()){
-            int size=q.size();
-            
-            for(int i=0; i<size; i++){
-                String current = q.poll();
-                
-                if(current.equals(endWord)){
+            int n= q.size();
+            for(int i=0; i<n; i++){
+                String temp= q.poll();
+                if(temp.equals(endWord)){
                     return level;
                 }
-                
-                char[] words=current.toCharArray();
-                
-                for(int j=0; j<len; j++){
-                    char original=words[j];
-                    for(char c ='a'; c<='z'; c++){
-                        if (c==original) continue;
-                        
-                        words[j]=c;
-                        String next=new String(words);
-                        
-                        if (set.contains(next)) {
-                            set.remove(next);
-                            q.offer(next);
+                char[] arr= temp.toCharArray();
+                for(int j=0; j<arr.length; j++){
+                    char original= arr[j];
+                    for(char k='a'; k<='z'; k++){
+                        if(k==original) continue;
+                        arr[j]=k;
+                        String word= new String(arr);
+                        if(set.contains(word)){
+                            
+                            q.add(word);
+                            set.remove(word);
                         }
                     }
-                    words[j]=original;
+                    arr[j]=original;
                 }
             }
             level++;
         }
-        
         return 0;
     }
 }
