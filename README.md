@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0056-merge-intervals) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0344-reverse-string) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0169-majority-element) |
