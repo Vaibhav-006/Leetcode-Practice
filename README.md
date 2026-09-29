@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0055-jump-game) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0258-add-digits) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
