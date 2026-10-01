@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 ## Binary Search Tree
 |  |
@@ -553,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
