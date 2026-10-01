@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1631-path-with-minimum-effort](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0704-binary-search) |
+| [1631-path-with-minimum-effort](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
 |  |
 | ------- |
@@ -453,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
@@ -461,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -542,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0187-repeated-dna-sequences) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
