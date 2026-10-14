@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0242-valid-anagram) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0100-same-tree) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0079-word-search) |
 ## Breadth-First Search
 |  |
 | ------- |
