@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0403-frog-jump](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0403-frog-jump) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
