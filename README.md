@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2498-frog-jump-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2498-frog-jump-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
 | [1927-sum-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1927-sum-game) |
+| [2498-frog-jump-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2498-frog-jump-ii) |
 ## String
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0704-binary-search) |
 | [1631-path-with-minimum-effort](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+| [2498-frog-jump-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2498-frog-jump-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
