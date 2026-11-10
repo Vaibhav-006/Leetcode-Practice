@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0136-single-number) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0403-frog-jump) |
