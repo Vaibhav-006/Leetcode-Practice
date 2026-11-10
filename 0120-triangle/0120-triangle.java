@@ -22,14 +22,10 @@ class Solution {
         }
         int up= Integer.MAX_VALUE;
         int left= Integer.MAX_VALUE;
-        if(j==0){
-            up= Math.min(up, sum(triangle, dp, i-1, j));
-        }
-        if(j==i){
+        if(j>0){
             left= Math.min(left, sum(triangle, dp, i-1, j-1));
         }
-        if(j>0 && j<i){
-            left= Math.min(left, sum(triangle, dp, i-1, j-1));
+        if(j<i){
             up= Math.min(up, sum(triangle, dp, i-1, j));
         }
         return dp[i][j]=Math.min(up, left)+triangle.get(i).get(j);
