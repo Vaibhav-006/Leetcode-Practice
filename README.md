@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
 | [1927-sum-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1927-sum-game) |
 | [2498-frog-jump-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2498-frog-jump-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
 | ------- |
