@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1124-longest-well-performing-interval) |
 | [1207-unique-number-of-occurrences](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1927-sum-game) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Memoization
 |  |
 | ------- |
