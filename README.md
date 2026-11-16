@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1927-sum-game) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
