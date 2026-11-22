@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [0741-cherry-pickup](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0403-frog-jump) |
+| [0741-cherry-pickup](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0931-minimum-falling-path-sum) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
