@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0403-frog-jump](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0397-integer-replacement](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0741-cherry-pickup](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -634,4 +636,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Vaibhav-006/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
